@@ -1,0 +1,794 @@
+@font-face {
+  font-family: 'accure-icon';
+  src:  url('fonts/accure-icon.eot?nqbpy6');
+  src:  url('fonts/accure-icon.eot?nqbpy6#iefix') format('embedded-opentype'),
+    url('fonts/accure-icon.ttf?nqbpy6') format('truetype'),
+    url('fonts/accure-icon.woff?nqbpy6') format('woff'),
+    url('fonts/accure-icon.svg?nqbpy6#accure-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="accure-icon-"], [class*=" accure-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'accure-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.accure-icon-team:before {
+  content: "\e9ff";
+}
+.accure-icon-yen-8:before {
+  content: "\e900";
+}
+.accure-icon-vision:before {
+  content: "\e901";
+}
+.accure-icon-yen-7:before {
+  content: "\e902";
+}
+.accure-icon-price-tag-3:before {
+  content: "\e903";
+}
+.accure-icon-invoice-5:before {
+  content: "\e904";
+}
+.accure-icon-shopping-bag-2:before {
+  content: "\e905";
+}
+.accure-icon-smartphone-13:before {
+  content: "\e906";
+}
+.accure-icon-yen-6:before {
+  content: "\e907";
+}
+.accure-icon-profits-7:before {
+  content: "\e908";
+}
+.accure-icon-presentation-4:before {
+  content: "\e909";
+}
+.accure-icon-pin-3:before {
+  content: "\e90a";
+}
+.accure-icon-piggy-bank-6:before {
+  content: "\e90b";
+}
+.accure-icon-money-23:before {
+  content: "\e90c";
+}
+.accure-icon-money-22:before {
+  content: "\e90d";
+}
+.accure-icon-money-21:before {
+  content: "\e90e";
+}
+.accure-icon-smartphone-12:before {
+  content: "\e90f";
+}
+.accure-icon-yen-5:before {
+  content: "\e910";
+}
+.accure-icon-smartphone-11:before {
+  content: "\e911";
+}
+.accure-icon-safebox-5:before {
+  content: "\e912";
+}
+.accure-icon-mortgage-3:before {
+  content: "\e913";
+}
+.accure-icon-head-4:before {
+  content: "\e914";
+}
+.accure-icon-growth-4:before {
+  content: "\e915";
+}
+.accure-icon-funnel-4:before {
+  content: "\e916";
+}
+.accure-icon-get-money-8:before {
+  content: "\e917";
+}
+.accure-icon-flow:before {
+  content: "\e918";
+}
+.accure-icon-eye-6:before {
+  content: "\e919";
+}
+.accure-icon-contract:before {
+  content: "\e91a";
+}
+.accure-icon-user-4:before {
+  content: "\e91b";
+}
+.accure-icon-yen-4:before {
+  content: "\e91c";
+}
+.accure-icon-yen-3:before {
+  content: "\e91d";
+}
+.accure-icon-yen-2:before {
+  content: "\e91e";
+}
+.accure-icon-time-is-money-3:before {
+  content: "\e91f";
+}
+.accure-icon-yen-1:before {
+  content: "\e920";
+}
+.accure-icon-yen:before {
+  content: "\e921";
+}
+.accure-icon-idea-5:before {
+  content: "\e922";
+}
+.accure-icon-money-bag-6:before {
+  content: "\e923";
+}
+.accure-icon-browser-1:before {
+  content: "\e924";
+}
+.accure-icon-wallet:before {
+  content: "\e925";
+}
+.accure-icon-glasses:before {
+  content: "\e926";
+}
+.accure-icon-businesswoman:before {
+  content: "\e927";
+}
+.accure-icon-businessman:before {
+  content: "\e928";
+}
+.accure-icon-certificate-1:before {
+  content: "\e929";
+}
+.accure-icon-browser:before {
+  content: "\e92a";
+}
+.accure-icon-get-money-7:before {
+  content: "\e92b";
+}
+.accure-icon-get-money-6:before {
+  content: "\e92c";
+}
+.accure-icon-get-money-5:before {
+  content: "\e92d";
+}
+.accure-icon-get-money-4:before {
+  content: "\e92e";
+}
+.accure-icon-rupee-7:before {
+  content: "\e92f";
+}
+.accure-icon-eye-5:before {
+  content: "\e930";
+}
+.accure-icon-target-3:before {
+  content: "\e931";
+}
+.accure-icon-price-tag-2:before {
+  content: "\e932";
+}
+.accure-icon-invoice-4:before {
+  content: "\e933";
+}
+.accure-icon-shopping-bag-1:before {
+  content: "\e934";
+}
+.accure-icon-money-20:before {
+  content: "\e935";
+}
+.accure-icon-magnifying-glass-1:before {
+  content: "\e936";
+}
+.accure-icon-profits-6:before {
+  content: "\e937";
+}
+.accure-icon-presentation-3:before {
+  content: "\e938";
+}
+.accure-icon-pin-2:before {
+  content: "\e939";
+}
+.accure-icon-piggy-bank-5:before {
+  content: "\e93a";
+}
+.accure-icon-money-19:before {
+  content: "\e93b";
+}
+.accure-icon-money-18:before {
+  content: "\e93c";
+}
+.accure-icon-money-17:before {
+  content: "\e93d";
+}
+.accure-icon-smartphone-10:before {
+  content: "\e93e";
+}
+.accure-icon-rupee-6:before {
+  content: "\e93f";
+}
+.accure-icon-smartphone-9:before {
+  content: "\e940";
+}
+.accure-icon-safebox-4:before {
+  content: "\e941";
+}
+.accure-icon-mortgage-2:before {
+  content: "\e942";
+}
+.accure-icon-head-3:before {
+  content: "\e943";
+}
+.accure-icon-growth-3:before {
+  content: "\e944";
+}
+.accure-icon-rupee-5:before {
+  content: "\e945";
+}
+.accure-icon-get-money-3:before {
+  content: "\e946";
+}
+.accure-icon-rupee-4:before {
+  content: "\e947";
+}
+.accure-icon-eye-4:before {
+  content: "\e948";
+}
+.accure-icon-file-4:before {
+  content: "\e949";
+}
+.accure-icon-user-3:before {
+  content: "\e94a";
+}
+.accure-icon-rupee-3:before {
+  content: "\e94b";
+}
+.accure-icon-rupee-2:before {
+  content: "\e94c";
+}
+.accure-icon-rupee-1:before {
+  content: "\e94d";
+}
+.accure-icon-time-is-money-2:before {
+  content: "\e94e";
+}
+.accure-icon-chat-1:before {
+  content: "\e94f";
+}
+.accure-icon-rupee:before {
+  content: "\e950";
+}
+.accure-icon-idea-4:before {
+  content: "\e951";
+}
+.accure-icon-money-bag-5:before {
+  content: "\e952";
+}
+.accure-icon-exchange-9:before {
+  content: "\e953";
+}
+.accure-icon-exchange-8:before {
+  content: "\e954";
+}
+.accure-icon-exchange-7:before {
+  content: "\e955";
+}
+.accure-icon-shopping-cart:before {
+  content: "\e956";
+}
+.accure-icon-pound-sterling-9:before {
+  content: "\e957";
+}
+.accure-icon-eye-3:before {
+  content: "\e958";
+}
+.accure-icon-target-2:before {
+  content: "\e959";
+}
+.accure-icon-price-tag-1:before {
+  content: "\e95a";
+}
+.accure-icon-invoice-3:before {
+  content: "\e95b";
+}
+.accure-icon-shopping-bag:before {
+  content: "\e95c";
+}
+.accure-icon-smartphone-8:before {
+  content: "\e95d";
+}
+.accure-icon-magnifying-glass:before {
+  content: "\e95e";
+}
+.accure-icon-profits-5:before {
+  content: "\e95f";
+}
+.accure-icon-presentation-2:before {
+  content: "\e960";
+}
+.accure-icon-pin-1:before {
+  content: "\e961";
+}
+.accure-icon-piggy-bank-4:before {
+  content: "\e962";
+}
+.accure-icon-pound-sterling-8:before {
+  content: "\e963";
+}
+.accure-icon-pound-sterling-7:before {
+  content: "\e964";
+}
+.accure-icon-money-16:before {
+  content: "\e965";
+}
+.accure-icon-pound-sterling-6:before {
+  content: "\e966";
+}
+.accure-icon-invoice-2:before {
+  content: "\e967";
+}
+.accure-icon-smartphone-7:before {
+  content: "\e968";
+}
+.accure-icon-safebox-3:before {
+  content: "\e969";
+}
+.accure-icon-mortgage-1:before {
+  content: "\e96a";
+}
+.accure-icon-head-2:before {
+  content: "\e96b";
+}
+.accure-icon-growth-2:before {
+  content: "\e96c";
+}
+.accure-icon-funnel-3:before {
+  content: "\e96d";
+}
+.accure-icon-get-money-2:before {
+  content: "\e96e";
+}
+.accure-icon-pound-sterling-5:before {
+  content: "\e96f";
+}
+.accure-icon-eye-2:before {
+  content: "\e970";
+}
+.accure-icon-file-3:before {
+  content: "\e971";
+}
+.accure-icon-user-2:before {
+  content: "\e972";
+}
+.accure-icon-pound-sterling-4:before {
+  content: "\e973";
+}
+.accure-icon-pound-sterling-3:before {
+  content: "\e974";
+}
+.accure-icon-pound-sterling-2:before {
+  content: "\e975";
+}
+.accure-icon-time-is-money-1:before {
+  content: "\e976";
+}
+.accure-icon-pound-sterling-1:before {
+  content: "\e977";
+}
+.accure-icon-pound-sterling:before {
+  content: "\e978";
+}
+.accure-icon-idea-3:before {
+  content: "\e979";
+}
+.accure-icon-money-bag-4:before {
+  content: "\e97a";
+}
+.accure-icon-exchange-6:before {
+  content: "\e97b";
+}
+.accure-icon-piggy-bank-3:before {
+  content: "\e97c";
+}
+.accure-icon-piggy-bank-2:before {
+  content: "\e97d";
+}
+.accure-icon-profits-4:before {
+  content: "\e97e";
+}
+.accure-icon-money-15:before {
+  content: "\e97f";
+}
+.accure-icon-money-14:before {
+  content: "\e980";
+}
+.accure-icon-money-13:before {
+  content: "\e981";
+}
+.accure-icon-money-12:before {
+  content: "\e982";
+}
+.accure-icon-money-11:before {
+  content: "\e983";
+}
+.accure-icon-money-10:before {
+  content: "\e984";
+}
+.accure-icon-money-9:before {
+  content: "\e985";
+}
+.accure-icon-money-8:before {
+  content: "\e986";
+}
+.accure-icon-atm-1:before {
+  content: "\e987";
+}
+.accure-icon-money-bag-3:before {
+  content: "\e988";
+}
+.accure-icon-smartphone-6:before {
+  content: "\e989";
+}
+.accure-icon-online-banking:before {
+  content: "\e98a";
+}
+.accure-icon-calculator-1:before {
+  content: "\e98b";
+}
+.accure-icon-profits-3:before {
+  content: "\e98c";
+}
+.accure-icon-profits-2:before {
+  content: "\e98d";
+}
+.accure-icon-padlock-2:before {
+  content: "\e98e";
+}
+.accure-icon-purse:before {
+  content: "\e98f";
+}
+.accure-icon-key:before {
+  content: "\e990";
+}
+.accure-icon-umbrella:before {
+  content: "\e991";
+}
+.accure-icon-target-1:before {
+  content: "\e992";
+}
+.accure-icon-idea-2:before {
+  content: "\e993";
+}
+.accure-icon-id-card:before {
+  content: "\e994";
+}
+.accure-icon-insurance-2:before {
+  content: "\e995";
+}
+.accure-icon-gold-ingot:before {
+  content: "\e996";
+}
+.accure-icon-funnel-2:before {
+  content: "\e997";
+}
+.accure-icon-euro-10:before {
+  content: "\e998";
+}
+.accure-icon-eye-1:before {
+  content: "\e999";
+}
+.accure-icon-euro-9:before {
+  content: "\e99a";
+}
+.accure-icon-price-tag:before {
+  content: "\e99b";
+}
+.accure-icon-invoice-1:before {
+  content: "\e99c";
+}
+.accure-icon-padlock-1:before {
+  content: "\e99d";
+}
+.accure-icon-smartphone-5:before {
+  content: "\e99e";
+}
+.accure-icon-euro-8:before {
+  content: "\e99f";
+}
+.accure-icon-profits-1:before {
+  content: "\e9a0";
+}
+.accure-icon-presentation-1:before {
+  content: "\e9a1";
+}
+.accure-icon-pin:before {
+  content: "\e9a2";
+}
+.accure-icon-piggy-bank-1:before {
+  content: "\e9a3";
+}
+.accure-icon-money-7:before {
+  content: "\e9a4";
+}
+.accure-icon-money-6:before {
+  content: "\e9a5";
+}
+.accure-icon-money-5:before {
+  content: "\e9a6";
+}
+.accure-icon-smartphone-4:before {
+  content: "\e9a7";
+}
+.accure-icon-euro-7:before {
+  content: "\e9a8";
+}
+.accure-icon-smartphone-3:before {
+  content: "\e9a9";
+}
+.accure-icon-safebox-2:before {
+  content: "\e9aa";
+}
+.accure-icon-mortgage:before {
+  content: "\e9ab";
+}
+.accure-icon-head-1:before {
+  content: "\e9ac";
+}
+.accure-icon-growth-1:before {
+  content: "\e9ad";
+}
+.accure-icon-funnel-1:before {
+  content: "\e9ae";
+}
+.accure-icon-get-money-1:before {
+  content: "\e9af";
+}
+.accure-icon-euro-6:before {
+  content: "\e9b0";
+}
+.accure-icon-eye:before {
+  content: "\e9b1";
+}
+.accure-icon-file-2:before {
+  content: "\e9b2";
+}
+.accure-icon-user-1:before {
+  content: "\e9b3";
+}
+.accure-icon-euro-5:before {
+  content: "\e9b4";
+}
+.accure-icon-euro-4:before {
+  content: "\e9b5";
+}
+.accure-icon-euro-3:before {
+  content: "\e9b6";
+}
+.accure-icon-euro-2:before {
+  content: "\e9b7";
+}
+.accure-icon-euro-1:before {
+  content: "\e9b8";
+}
+.accure-icon-euro:before {
+  content: "\e9b9";
+}
+.accure-icon-idea-1:before {
+  content: "\e9ba";
+}
+.accure-icon-money-bag-2:before {
+  content: "\e9bb";
+}
+.accure-icon-exchange-5:before {
+  content: "\e9bc";
+}
+.accure-icon-exchange-4:before {
+  content: "\e9bd";
+}
+.accure-icon-dollar-11:before {
+  content: "\e9be";
+}
+.accure-icon-dollar-10:before {
+  content: "\e9bf";
+}
+.accure-icon-target:before {
+  content: "\e9c0";
+}
+.accure-icon-dollar-tag:before {
+  content: "\e9c1";
+}
+.accure-icon-invoice:before {
+  content: "\e9c2";
+}
+.accure-icon-padlock:before {
+  content: "\e9c3";
+}
+.accure-icon-smartphone-2:before {
+  content: "\e9c4";
+}
+.accure-icon-dollar-9:before {
+  content: "\e9c5";
+}
+.accure-icon-profits:before {
+  content: "\e9c6";
+}
+.accure-icon-presentation:before {
+  content: "\e9c7";
+}
+.accure-icon-dollar-8:before {
+  content: "\e9c8";
+}
+.accure-icon-piggy-bank:before {
+  content: "\e9c9";
+}
+.accure-icon-money-4:before {
+  content: "\e9ca";
+}
+.accure-icon-money-3:before {
+  content: "\e9cb";
+}
+.accure-icon-money-2:before {
+  content: "\e9cc";
+}
+.accure-icon-smartphone-1:before {
+  content: "\e9cd";
+}
+.accure-icon-dollar-7:before {
+  content: "\e9ce";
+}
+.accure-icon-smartphone:before {
+  content: "\e9cf";
+}
+.accure-icon-safebox-1:before {
+  content: "\e9d0";
+}
+.accure-icon-dollar-6:before {
+  content: "\e9d1";
+}
+.accure-icon-head:before {
+  content: "\e9d2";
+}
+.accure-icon-growth:before {
+  content: "\e9d3";
+}
+.accure-icon-funnel:before {
+  content: "\e9d4";
+}
+.accure-icon-get-money:before {
+  content: "\e9d5";
+}
+.accure-icon-dollar-5:before {
+  content: "\e9d6";
+}
+.accure-icon-dollar-4:before {
+  content: "\e9d7";
+}
+.accure-icon-file-1:before {
+  content: "\e9d8";
+}
+.accure-icon-user:before {
+  content: "\e9d9";
+}
+.accure-icon-dollar-3:before {
+  content: "\e9da";
+}
+.accure-icon-dollar-2:before {
+  content: "\e9db";
+}
+.accure-icon-dollar-1:before {
+  content: "\e9dc";
+}
+.accure-icon-time-is-money:before {
+  content: "\e9dd";
+}
+.accure-icon-chat:before {
+  content: "\e9de";
+}
+.accure-icon-dollar:before {
+  content: "\e9df";
+}
+.accure-icon-idea:before {
+  content: "\e9e0";
+}
+.accure-icon-money-bag-1:before {
+  content: "\e9e1";
+}
+.accure-icon-exchange-3:before {
+  content: "\e9e2";
+}
+.accure-icon-exchange-2:before {
+  content: "\e9e3";
+}
+.accure-icon-exchange-1:before {
+  content: "\e9e4";
+}
+.accure-icon-exchange:before {
+  content: "\e9e5";
+}
+.accure-icon-file:before {
+  content: "\e9e6";
+}
+.accure-icon-discount:before {
+  content: "\e9e7";
+}
+.accure-icon-diamond:before {
+  content: "\e9e8";
+}
+.accure-icon-money-1:before {
+  content: "\e9e9";
+}
+.accure-icon-money:before {
+  content: "\e9ea";
+}
+.accure-icon-close:before {
+  content: "\e9eb";
+}
+.accure-icon-monitor:before {
+  content: "\e9ec";
+}
+.accure-icon-check:before {
+  content: "\e9ed";
+}
+.accure-icon-credit-card-1:before {
+  content: "\e9ee";
+}
+.accure-icon-credit-card:before {
+  content: "\e9ef";
+}
+.accure-icon-atm:before {
+  content: "\e9f0";
+}
+.accure-icon-insurance-1:before {
+  content: "\e9f1";
+}
+.accure-icon-insurance:before {
+  content: "\e9f2";
+}
+.accure-icon-calendar:before {
+  content: "\e9f3";
+}
+.accure-icon-bank:before {
+  content: "\e9f4";
+}
+.accure-icon-safebox:before {
+  content: "\e9f5";
+}
+.accure-icon-balance:before {
+  content: "\e9f6";
+}
+.accure-icon-portfolio:before {
+  content: "\e9f7";
+}
+.accure-icon-money-bag:before {
+  content: "\e9f8";
+}
+.accure-icon-award:before {
+  content: "\e9f9";
+}
+.accure-icon-certificate:before {
+  content: "\e9fa";
+}
+.accure-icon-auction:before {
+  content: "\e9fb";
+}
+.accure-icon-analytics:before {
+  content: "\e9fc";
+}
+.accure-icon-add:before {
+  content: "\e9fd";
+}
+.accure-icon-calculator:before {
+  content: "\e9fe";
+}

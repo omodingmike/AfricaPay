@@ -1,0 +1,1599 @@
+@media only screen and (min-width: 1200px) and (max-width: 2199px) {
+    .pranto-hide{
+        display: none !important;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .pranto-hide{
+        display: none !important;
+    }
+    /* banner */
+    .banner {
+        padding: 306px 0 242px;
+    }
+    .banner .banner-content {
+        text-align: center;
+    }
+    .banner .banner-content .part-text h1 {
+        font-size: 40px;
+        text-transform: capitalize;
+        margin-bottom: 11px;
+    }
+    .banner .banner-content .part-text h1 br {
+        display: none;
+    }
+    .banner .banner-content .part-img {
+        display: none;
+    }
+
+    /* counter */
+    .counter .single-counter,
+    .counter .col-xl-4:nth-child(2) .single-counter {
+        padding: 40px 30px 32px;
+    }
+
+    /* faq */
+    .faq .accordion .card .card-header h5 button {
+        white-space: normal;
+    } 
+
+    /* inventor */
+    .inventor .part-inventor {
+        height: 220px;
+    }
+    .inventor .part-inventor .single-inventor {
+        padding: 10px;
+    }
+    .inventor .part-inventor .single-inventor:nth-child(2) {
+        right: 130px;
+    }
+    .inventor .part-inventor .single-inventor:nth-child(3) {
+        top: 130px;
+    }
+    .inventor .part-inventor .single-inventor:nth-child(4) {
+        right: 160px;
+        top: 110px;
+    }
+    .inventor .part-inventor .single-inventor:nth-child(5) {
+        top: 130px;
+        right: 260px;
+    }
+    .inventor .part-inventor .single-inventor:nth-child(5) img {
+        width: 50px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* page title */
+    .page-title {
+        padding: 74px 0 60px;
+    }
+    .page-title h2 {
+        font-size: 28px;
+        margin-bottom: 16px;
+    }
+    .page-title h2.extra-margin {
+        margin-bottom: 24px;
+    }
+    .page-title p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    
+    /* section title */
+    .section-title h2,
+    .we-thinking-global .part-text h2,
+    .inventor .part-text h2,
+    .info-feature .info-single-feature .part-text h2 {
+        font-size: 28px;
+    }
+
+    /* header */
+    .header {
+        position: initial;
+        background: #052157;
+    }
+    .header .header-top {
+        display: none;
+    }
+    .header .header-bottom .mobile-special {
+        padding: 14px 0;
+    }
+    .header .header-bottom .join-us {
+        display: none;
+    }
+    .header .navbar-toggler {
+        padding: 0;
+        float: right;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    .header .navbar-toggler span {
+        border: 1px solid #fff;
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        line-height: 36px;
+        color: #fff;
+        border-radius: 6px;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 18px 15px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        text-align: left;
+    }
+
+    /* banner */
+    .banner {
+        padding: 125px 0 120px;
+    }
+    .banner .banner-content {
+        text-align: center;
+    }
+    .banner .banner-content .part-text h1 {
+        font-size: 36px;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .banner .banner-content .part-text h1 br {
+        display: none;
+    }
+    .banner .banner-content .part-text p {
+        font-size: 18px;
+    }
+    .banner .banner-content .part-text a {
+        width: 170px;
+    }
+    .banner .banner-content .part-img {
+        display: none;
+    }
+
+    /* counter */
+    .counter {
+        margin-top: 0;
+        padding: 80px 0 50px;
+        background: #fbfbfc;
+    }
+    .counter .single-counter {
+        margin-bottom: 30px;
+        display: block;
+        text-align: center;
+    }
+    .counter .single-counter .part-icon {
+        left: 50%;
+        margin-left: -30px;
+        margin-bottom: 23px;
+    }
+    .counter .single-counter .part-text h3,
+    .counter .col-xl-4:nth-child(2) .single-counter .part-text h3 {
+        font-size: 24px;
+    }
+    .counter .single-counter .part-text h4 {
+        font-size: 16px;
+    }
+
+    /* about */
+    .about {
+        padding: 73px 0 50px;
+    }
+
+    /* we thinking global */
+    .we-think-global {
+        padding: 83px 0 80px;
+    }
+    .we-think-global .part-left {
+        text-align: center;
+    }
+    .we-think-global .part-left h2 {
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .we-think-global .part-right {
+        margin-top: 40px;
+        padding: 25px 20px 30px;
+    }
+    .we-think-global .part-left a, .we-think-global .part-right a {
+        padding: 14px 0;
+    }
+
+    /* choosing reason */
+    .choosing-reason {
+        padding: 74px 0 50px;
+    }
+
+    /* payment */
+    .payment {
+        padding: 80px 0 80px;
+    }
+    .payment .part-form h3 {
+        font-size: 18px;
+    }
+    .payment .part-form .payment-form .form-group label {
+        font-size: 16px;
+    }
+    .payment .part-accept .single-accept {
+        float: left;
+    }
+
+    /* pricing plan */
+    .price {
+        padding: 73px 0 50px;
+    }
+    .price .single-price {
+        margin-bottom: 30px;
+    }
+    .price .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .price .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .price .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .price .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+
+    /* transaction */
+    .transaction {
+        padding: 73px 0 64px;
+        margin-top: 0;
+    }
+    .transaction-area .table {
+        width: 900px;
+    }
+    .transaction-area .tab-pane {
+        overflow-y: hidden;
+        overflow-x: scroll;  
+    }
+    .transaction .transaction-area .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+    .transaction .transaction-area .tab-content .table thead th {
+        font-size: 16px;
+    }
+    .transaction .transaction-area .tab-content .table tbody tr th .user-img {
+        display: none;
+    }
+
+    /* inventor */
+    #investors {
+        padding: 73px 0px 50px;
+    }
+    #investors .box {
+        margin-bottom: 30px;
+    }
+
+    /* faq page */
+    .faq {
+        padding: 74px 0 50px;
+        margin-top: 0;
+    }
+    .faq .accordion .card .card-header h5 button {
+        white-space: normal;
+        padding-left: 30px;
+    }
+    .faq .accordion .card .card-body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .faq .accordion .card .card-header h5 button:after,
+    .faq .accordion .card .card-header h5 button:before {
+        display: none;
+    }
+
+    /* newsletter */
+    .newsletter {
+        padding: 74px 0 80px;
+    }
+
+    /* blog post page */
+    .blog-post {
+        margin-top: 0;
+        padding: 73px 0 60px;
+        background: #f1f4fd;
+    }
+    .blog-post .bg-img {
+        display: none;
+    }
+    .blog-post.single-blog-post {
+        padding-top: 80px;
+    }
+
+    /* contact page */
+    .address-area {
+        padding: 80px 0 20px;
+    }
+    .address-area .tsk-contact-info .contact-info-item {
+        margin-bottom: 30px;
+    }
+    .contact {
+        margin-top: 0;
+        padding: 73px 0 80px;
+    }
+    .contact.pt-120px {
+        padding-top: 80px;
+    }
+    .contact .google-map {
+        margin-top: 80px;
+        height: 300px;
+    }
+    .contact .contact-form {
+        padding: 33px 40px 40px;
+    }
+    .contact .contact-form .form-group input.form-control {
+        height: 50px;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .contact .contact-form button.submit-button,
+    .contact .contact-form button {
+        width: 170px;
+        left: 0;
+        margin-left: 0;
+    }
+    .contact .contact-form .forgetting-password {
+        text-align: left;
+    }
+    
+    /* we are */
+    .we-re {
+        padding: 82px 0 80px;
+    }
+    .we-re .part-text {
+        margin-bottom: 40px;
+    }
+
+    /* video */
+    .video {
+        padding: 74px 0 73px;
+    }
+
+    /* footer */
+    .footer {
+        padding-top: 76px;
+    }
+    .footer .copyright {
+        margin-top: 54px;
+    }
+    .footer .box .social_links {
+        margin-bottom: 0;
+    }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* page title */
+    .page-title {
+        padding: 74px 0 60px;
+    }
+    .page-title h2 {
+        font-size: 28px;
+        margin-bottom: 16px;
+    }
+    .page-title h2.extra-margin {
+        margin-bottom: 24px;
+    }
+    .page-title p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    /* section title */
+    .section-title h2,
+    .we-thinking-global .part-text h2,
+    .inventor .part-text h2,
+    .info-feature .info-single-feature .part-text h2 {
+        font-size: 28px;
+    }
+
+    /* header */
+    .header {
+        position: initial;
+        background: #052157;
+    }
+    .header .header-top {
+        display: none;
+    }
+    .header .header-bottom .mobile-special {
+        padding: 14px 0;
+    }
+    .header .header-bottom .join-us {
+        display: none;
+    }
+    .header .navbar-toggler {
+        padding: 0;
+        float: right;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    .header .navbar-toggler span {
+        border: 1px solid #fff;
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        line-height: 36px;
+        color: #fff;
+        border-radius: 6px;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 18px 15px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        text-align: left;
+    }
+
+    /* banner */
+    .banner {
+        padding: 125px 0 120px;
+    }
+    .banner .banner-content {
+        text-align: center;
+    }
+    .banner .banner-content .part-text h1 {
+        font-size: 32px;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .banner .banner-content .part-text p {
+        font-size: 16px;
+    }
+    .banner .banner-content .part-text a {
+        width: 170px;
+    }
+    .banner .banner-content .part-img {
+        display: none;
+    }
+
+    /* counter */
+    .counter {
+        margin-top: 0;
+        padding: 80px 0 50px;
+        background: #fbfbfc;
+    }
+    .counter .single-counter {
+        margin-bottom: 30px;
+        display: block;
+        text-align: center;
+    }
+    .counter .single-counter .part-icon {
+        left: 50%;
+        margin-left: -30px;
+        margin-bottom: 23px;
+    }
+    .counter .single-counter .part-text h3, .counter .col-xl-4:nth-child(2) .single-counter .part-text h3 {
+        font-size: 28px;
+    }
+    .counter .single-counter .part-text h4 {
+        font-size: 16px;
+    }
+
+    /* about */
+    .about {
+        padding: 71px 0 50px;
+    }
+
+    /* we thinking global */
+    .we-think-global {
+        padding: 83px 0 80px;
+    }
+    .we-think-global .part-left {
+        text-align: center;
+    }
+    .we-think-global .part-left h2 {
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .we-think-global .part-right {
+        margin-top: 40px;
+        padding: 25px 20px 30px;
+    }
+    .we-think-global .part-left a, .we-think-global .part-right a {
+        padding: 14px 0;
+    }
+
+    /* choosing reason */
+    .choosing-reason {
+        padding: 74px 0 50px;
+    }
+
+    /* payment */
+    .payment {
+        padding: 80px 0 80px;
+    }
+    .payment .part-form h3 {
+        font-size: 18px;
+    }
+    .payment .part-form {
+        margin-bottom: 40px;
+    }
+    .payment .part-form .payment-form .form-group label {
+        font-size: 16px;
+    }
+    .payment .part-accept .single-accept {
+        float: left;
+    }
+
+    /* pricing plan */
+    .price {
+        padding: 73px 0 50px;
+    }
+    .price .single-price {
+        margin-bottom: 30px;
+    }
+    .price .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .price .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .price .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .price .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+
+    /* transaction */
+    .transaction {
+        padding: 73px 0 64px;
+        margin-top: 0;
+    }
+    .transaction-area .table {
+        width: 900px;
+    }
+    .transaction-area .tab-pane {
+        overflow-y: hidden;
+        overflow-x: scroll;  
+    }
+    .transaction .transaction-area .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+    .transaction .transaction-area .tab-content .table thead th {
+        font-size: 16px;
+    }
+    .transaction .transaction-area .tab-content .table tbody tr th .user-img {
+        display: none;
+    }
+
+    /* inventor */
+    #investors {
+        padding: 73px 0px 50px;
+    }
+    #investors .box {
+        margin-bottom: 30px;
+    }
+
+    /* faq page */
+    .faq {
+        padding: 74px 0 50px;
+        margin-top: 0;
+    }
+    .faq .accordion .card .card-header h5 button {
+        white-space: normal;
+        padding-left: 30px;
+    }
+    .faq .accordion .card .card-body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .faq .accordion .card .card-header h5 button:after,
+    .faq .accordion .card .card-header h5 button:before {
+        display: none;
+    }
+
+    /* newsletter */
+    .newsletter {
+        padding: 74px 0 80px;
+        background: #6b39da;
+    }
+    .newsletter .bg-img {
+        display: none;
+    }
+    .newsletter .newsletter-form {
+        background: none;
+        height: auto;
+    }
+    .newsletter .newsletter-form:after {
+        display: none;
+    }
+    .newsletter .newsletter-form input {
+        height: 50px;
+        font-size: 14px;
+        padding: 0;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .newsletter .newsletter-form button {
+        position: initial;
+        height: 50px;
+        font-size: 16px;
+        width: 100%;
+    }
+
+    /* blog post page */
+    .blog-post {
+        margin-top: 0;
+        padding: 73px 0 60px;
+        background: #f1f4fd;
+    }
+    .blog-post .bg-img {
+        display: none;
+    }
+    
+    .blog-post.single-blog-post {
+        padding-top: 80px;
+    }
+
+    /* details blog */
+    .blog-post .comment-form .comment-form-title,
+    .blog-post .comment-area .comment-area-title {
+        font-size: 18px;
+        text-align: center;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text h3 {
+        font-size: 18px;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text h4 span {
+        font-size: 12px;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .blog-post.single-blog-post {
+        padding-top: 80px;
+    }
+
+    /* details blog comment */
+    .blog-post .comment-area .single-comment .part-user {
+        float: none;
+        margin-bottom: 26px;
+    }
+    .blog-post .comment-area .single-comment .part-quot {
+        margin-left: 0;
+    }
+    .blog-post .comment-area .single-comment button {
+        position: initial;
+    }
+    .blog-post .comment-area .single-comment.relpy {
+        padding-left: 50px;
+    }
+
+    /* details blog comment form */
+    .blog-post .comment-form form {
+        padding: 20px;
+    }
+    .blog-post .comment-form form input {
+        font-size: 14px;
+        height: 50px;
+        margin-bottom: 20px;
+    }
+    .blog-post .comment-form form textarea {
+        font-size: 14px;
+    }
+    .blog-post .comment-form form button {
+        width: 100%;
+        height: 50px;
+        font-size: 14px;
+        margin-top: 23px;
+    }
+
+    /* contact page */
+    .address-area {
+        padding: 80px 0 20px;
+    }
+    .address-area .tsk-contact-info .contact-info-item {
+        margin-bottom: 30px;
+    }
+    .contact {
+        margin-top: 0;
+        padding: 73px 0 80px;
+    }
+    .contact.pt-120px {
+        padding-top: 80px;
+    }
+    .contact .google-map {
+        margin-top: 80px;
+        height: 300px;
+    }
+    .contact .contact-form {
+        padding: 33px 20px 40px;
+    }
+    .contact .contact-form .form-group input.form-control {
+        height: 50px;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .contact .contact-form button.submit-button,
+    .contact .contact-form button {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+    .contact .contact-form .forgetting-password {
+        text-align: left;
+    }
+    
+    /* we are */
+    .we-re {
+        padding: 82px 0 80px;
+    }
+    .we-re .part-text {
+        margin-bottom: 40px;
+    }
+
+    /* video */
+    .video {
+        padding: 74px 0 73px;
+    }
+
+    /* footer */
+    .footer {
+        padding-top: 76px;
+    }
+    .footer .copyright {
+        margin-top: 49px;
+    }
+    .footer .box .social_links {
+        margin-bottom: 0;
+    }
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+    /* page title */
+    .page-title {
+        padding: 74px 0 60px;
+    }
+    .page-title h2 {
+        font-size: 28px;
+        margin-bottom: 16px;
+    }
+    .page-title h2.extra-margin {
+        margin-bottom: 24px;
+    }
+    .page-title p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    /* section title */
+    .section-title h2,
+    .we-thinking-global .part-text h2,
+    .inventor .part-text h2,
+    .info-feature .info-single-feature .part-text h2 {
+        font-size: 28px;
+    }
+
+    /* header */
+    .header {
+        position: initial;
+        background: #052157;
+    }
+    .header .header-top {
+        display: none;
+    }
+    .header .header-bottom .mobile-special {
+        padding: 14px 0;
+    }
+    .header .header-bottom .join-us {
+        display: none;
+    }
+    .header .navbar-toggler {
+        padding: 0;
+        float: right;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    .header .navbar-toggler span {
+        border: 1px solid #fff;
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        line-height: 36px;
+        color: #fff;
+        border-radius: 6px;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 18px 15px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        text-align: left;
+    }
+
+    /* banner */
+    .banner {
+        padding: 125px 0 120px;
+    }
+    .banner .banner-content {
+        text-align: center;
+    }
+    .banner .banner-content .part-text h1 {
+        font-size: 32px;
+        text-transform: capitalize;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .banner .banner-content .part-text p {
+        font-size: 16px;
+    }
+    .banner .banner-content .part-text a {
+        padding: 14px 0;
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+    .banner .banner-content .part-img {
+        display: none;
+    }
+
+    /* counter */
+    .counter {
+        margin-top: 0;
+        padding: 80px 0 50px;
+        background: #fbfbfc;
+    }
+    .counter .single-counter {
+        margin-bottom: 30px;
+        display: block;
+        text-align: center;
+    }
+    .counter .single-counter .part-icon {
+        left: 50%;
+        margin-left: -30px;
+        margin-bottom: 23px;
+    }
+    .counter .single-counter .part-text h3,
+    .counter .col-xl-4:nth-child(2) .single-counter .part-text h3 {
+        font-size: 24px;
+    }
+    .counter .single-counter .part-text h4 {
+        font-size: 16px;
+    }
+
+    /* about */
+    .about {
+        padding: 71px 0 50px;
+    }
+
+    /* we thinking global */
+    .we-think-global {
+        padding: 83px 0 80px;
+    }
+    .we-think-global .part-left {
+        text-align: center;
+    }
+    .we-think-global .part-left h2 {
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .we-think-global .part-right {
+        margin-top: 40px;
+        padding: 25px 20px 30px;
+    }
+    .we-think-global .part-left a, .we-think-global .part-right a {
+        padding: 14px 0;
+    }
+
+    /* choosing reason */
+    .choosing-reason {
+        padding: 74px 0 50px;
+    }
+
+    /* payment */
+    .payment {
+        padding: 80px 0 80px;
+    }
+    .payment .part-form h3 {
+        font-size: 18px;
+    }
+    .payment .part-form {
+        margin-bottom: 40px;
+    }
+    .payment .part-form .payment-form .form-group label {
+        font-size: 16px;
+    }
+    .payment .part-accept .single-accept {
+        float: left;
+    }
+
+    /* pricing plan */
+    .price {
+        padding: 73px 0 50px;
+    }
+    .price .single-price {
+        margin-bottom: 30px;
+    }
+    .price .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .price .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .price .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .price .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+
+    /* transaction */
+    .transaction {
+        padding: 73px 0 64px;
+        margin-top: 0;
+    }
+    .transaction-area .table {
+        width: 900px;
+    }
+    .transaction-area .tab-pane {
+        overflow-y: hidden;
+        overflow-x: scroll;  
+    }
+    .transaction .transaction-area .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+    .transaction .transaction-area .tab-content .table thead th {
+        font-size: 16px;
+    }
+    .transaction .transaction-area .tab-content .table tbody tr th .user-img {
+        display: none;
+    }
+
+    /* inventor */
+    #investors {
+        padding: 73px 0px 50px;
+    }
+    #investors .box {
+        margin-bottom: 30px;
+    }
+
+    /* faq page */
+    .faq {
+        padding: 74px 0 50px;
+        margin-top: 0;
+    }
+    .faq .accordion .card .card-header h5 button {
+        white-space: normal;
+        padding-left: 30px;
+    }
+    .faq .accordion .card .card-body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .faq .accordion .card .card-header h5 button:after,
+    .faq .accordion .card .card-header h5 button:before {
+        display: none;
+    }
+
+    /* newsletter */
+    .newsletter {
+        padding: 74px 0 80px;
+        background: #6b39da;
+    }
+    .newsletter .bg-img {
+        display: none;
+    }
+    .newsletter .newsletter-form {
+        background: none;
+        height: auto;
+    }
+    .newsletter .newsletter-form:after {
+        display: none;
+    }
+    .newsletter .newsletter-form input {
+        height: 50px;
+        font-size: 14px;
+        padding: 0;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .newsletter .newsletter-form button {
+        position: initial;
+        height: 50px;
+        font-size: 16px;
+        width: 100%;
+    }
+    
+    /* blog post page */
+    .blog-post {
+        margin-top: 0;
+        padding: 73px 0 60px;
+        background: #f1f4fd;
+    }
+    .blog-post .bg-img {
+        display: none;
+    }
+    
+    .blog-post.single-blog-post {
+        padding-top: 80px;
+    }
+
+    /* details blog */
+    .blog-post .comment-form .comment-form-title,
+    .blog-post .comment-area .comment-area-title {
+        font-size: 18px;
+        text-align: center;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text h3 {
+        font-size: 18px;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text h4 span {
+        font-size: 12px;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .blog-post.single-blog-post {
+        padding-top: 80px;
+    }
+
+    /* details blog comment */
+    .blog-post .comment-area .single-comment .part-user {
+        float: none;
+        margin-bottom: 26px;
+    }
+    .blog-post .comment-area .single-comment .part-quot {
+        margin-left: 0;
+    }
+    .blog-post .comment-area .single-comment button {
+        position: initial;
+    }
+    .blog-post .comment-area .single-comment.relpy {
+        padding-left: 50px;
+    }
+
+    /* details blog comment form */
+    .blog-post .comment-form form {
+        padding: 20px;
+    }
+    .blog-post .comment-form form input {
+        font-size: 14px;
+        height: 50px;
+        margin-bottom: 20px;
+    }
+    .blog-post .comment-form form textarea {
+        font-size: 14px;
+    }
+    .blog-post .comment-form form button {
+        width: 100%;
+        height: 50px;
+        font-size: 14px;
+        margin-top: 23px;
+    }
+
+    /* contact page */
+    .address-area {
+        padding: 80px 0 20px;
+    }
+    .address-area .tsk-contact-info .contact-info-item {
+        margin-bottom: 30px;
+    }
+    .contact {
+        margin-top: 0;
+        padding: 73px 0 80px;
+    }
+    .contact.pt-120px {
+        padding-top: 80px;
+    }
+    .contact .google-map {
+        margin-top: 80px;
+        height: 300px;
+    }
+    .contact .contact-form {
+        padding: 33px 20px 40px;
+    }
+    .contact .contact-form .form-group input.form-control {
+        height: 50px;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .contact .contact-form button.submit-button,
+    .contact .contact-form button {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+    .contact .contact-form .forgetting-password {
+        text-align: left;
+    }
+
+    /* we are */
+    .we-re {
+        padding: 82px 0 80px;
+    }
+    .we-re .part-text {
+        margin-bottom: 40px;
+    }
+
+    /* video */
+    .video {
+        padding: 74px 0 73px;
+    }
+
+    /* footer */
+    .footer {
+        padding-top: 76px;
+    }
+    .footer .copyright {
+        margin-top: 49px;
+    }
+    .footer .box .social_links {
+        margin-bottom: 0;
+    }
+
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    /* page title */
+    .page-title {
+        padding: 74px 0 60px;
+    }
+    .page-title h2 {
+        font-size: 28px;
+        margin-bottom: 16px;
+    }
+    .page-title h2.extra-margin {
+        margin-bottom: 24px;
+    }
+    .page-title p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    /* section title */
+    .section-title h2,
+    .we-thinking-global .part-text h2,
+    .inventor .part-text h2,
+    .info-feature .info-single-feature .part-text h2 {
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+    /* header */
+    .header {
+        position: initial;
+        background: #052157;
+    }
+    .header .header-top {
+        display: none;
+    }
+    .header .header-bottom .mobile-special {
+        padding: 14px 0;
+    }
+    .header .header-bottom .join-us {
+        display: none;
+    }
+    .header .navbar-toggler {
+        padding: 0;
+        float: right;
+    }
+    .header .navbar-toggler:focus {
+        outline: none;
+    }
+    .header .navbar-toggler span {
+        border: 1px solid #fff;
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        line-height: 36px;
+        color: #fff;
+        border-radius: 6px;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 18px 15px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        text-align: left;
+    }
+
+    /* banner */
+    .banner {
+        padding: 125px 0 120px;
+    }
+    .banner .banner-content {
+        text-align: center;
+    }
+    .banner .banner-content .part-text h1 {
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+    .banner .banner-content .part-text h1 br {
+        display: none;
+    }
+    .banner .banner-content .part-text p {
+        font-size: 16px;
+    }
+    .banner .banner-content .part-text a {
+        padding: 14px 0;
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+    .banner .banner-content .part-img {
+        display: none;
+    }
+
+    /* counter */
+    .counter {
+        margin-top: 0;
+        padding: 80px 0 50px;
+        background: #fbfbfc;
+    }
+    .counter .single-counter {
+        margin-bottom: 30px;
+        display: block;
+        text-align: center;
+    }
+    .counter .single-counter .part-icon {
+        left: 50%;
+        margin-left: -30px;
+        margin-bottom: 23px;
+    }
+    .counter .single-counter .part-text h3,
+    .counter .col-xl-4:nth-child(2) .single-counter .part-text h3 {
+        font-size: 24px;
+    }
+    .counter .single-counter .part-text h4 {
+        font-size: 16px;
+    }
+
+    /* about */
+    .about {
+        padding: 71px 0 50px;
+    }
+    .about .single-about {
+        padding: 24px 30px 29px;
+    }
+    .about .single-about .heading .part-icon {
+        display: block;
+        margin-bottom: 5px;
+    }
+    .about .single-about .heading .part-text {
+        position: relative;
+    }
+    .about .single-about .heading .part-text h3 {
+        font-size: 18px;
+        margin-bottom: 19px;
+    }
+
+    /* we thinking global */
+    .we-think-global {
+        padding: 73px 0 80px;
+    }
+    .we-think-global .part-left {
+        text-align: center;
+    }
+    .we-think-global .part-left h2 {
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .we-think-global .part-right {
+        margin-top: 40px;
+        padding: 25px 20px 30px;
+    }
+    .we-think-global .part-left a, .we-think-global .part-right a {
+        padding: 14px 0;
+    }
+
+    /* choosing reason */
+    .choosing-reason {
+        padding: 74px 0 50px;
+    }
+    .choosing-reason .single-reason .part-text h3 {
+        font-size: 18px;
+    }
+
+    /* transaction */
+    .transaction {
+        padding: 73px 0 64px;
+        margin-top: 0;
+    }
+    .transaction-area .table {
+        width: 900px;
+    }
+    .transaction-area .tab-pane {
+        overflow-y: hidden;
+        overflow-x: scroll;  
+    }
+    .transaction .transaction-area .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .transaction .transaction-area .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+    .transaction .transaction-area .tab-content .table thead th {
+        font-size: 16px;
+    }
+    .transaction .transaction-area .tab-content .table tbody tr th .user-img {
+        display: none;
+    }
+
+    /* payment */
+    .payment {
+        padding: 80px 0 80px;
+    }
+    .payment .part-form h3 {
+        font-size: 18px;
+    }
+    .payment .part-form {
+        margin-bottom: 40px;
+    }
+    .payment .part-form .payment-form .form-group label {
+        font-size: 16px;
+    }
+    .payment .part-accept .single-accept {
+        float: left;
+    }
+
+    /* pricing plan */
+    .price {
+        padding: 73px 0 50px;
+    }
+    .price .single-price {
+        margin-bottom: 30px;
+    }
+    .price .nav-tabs {
+        width: 280px;
+        margin-left: -140px;
+    }
+    .price .nav-tabs .nav-item .nav-link {
+        margin-right: 0;
+    }
+    .price .nav-tabs .nav-item:first-child .nav-link {
+        border-radius: 50px 0 0 50px;
+        border-right: 1px solid rgba(255, 255, 255, 0.55);
+    }
+    .price .nav-tabs .nav-item:last-child .nav-link {
+        border-radius: 0 50px 50px 0;
+    }
+
+    /* inventor */
+    #investors {
+        padding: 73px 0px 50px;
+    }
+    #investors .box {
+        margin-bottom: 30px;
+    }
+
+    /* faq page */
+    .faq {
+        padding: 74px 0 50px;
+        margin-top: 0;
+    }
+    .faq .accordion .card .card-header h5 button {
+        white-space: normal;
+        padding-left: 30px;
+    }
+    .faq .accordion .card .card-body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .faq .accordion .card .card-header h5 button:after,
+    .faq .accordion .card .card-header h5 button:before {
+        display: none;
+    }
+
+    /* newsletter */
+    .newsletter {
+        padding: 74px 0 80px;
+        background: #6b39da;
+    }
+    .newsletter .bg-img {
+        display: none;
+    }
+    .newsletter .newsletter-form {
+        background: none;
+        height: auto;
+    }
+    .newsletter .newsletter-form:after {
+        display: none;
+    }
+    .newsletter .newsletter-form input {
+        height: 50px;
+        font-size: 14px;
+        padding: 0;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .newsletter .newsletter-form button {
+        position: initial;
+        height: 50px;
+        font-size: 16px;
+        width: 100%;
+    }
+
+    /* blog post page */
+    .blog-post {
+        margin-top: 0;
+        padding: 73px 0 60px;
+        background: #f1f4fd;
+    }
+    .blog-post .bg-img {
+        display: none;
+    }
+    .blog-post .single-blog .part-social a:last-child {
+        display: none;
+    }
+
+    /* details blog */
+    .blog-post .comment-form .comment-form-title,
+    .blog-post .comment-area .comment-area-title {
+        font-size: 18px;
+        text-align: center;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text h3 {
+        font-size: 18px;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text h4 span {
+        font-size: 12px;
+    }
+    .blog-post .single-blog.blog-details .post-shadow .part-text p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .blog-post.single-blog-post {
+        padding-top: 80px;
+    }
+
+    /* details blog comment */
+    .blog-post .comment-area .single-comment .part-user {
+        float: none;
+        margin-bottom: 26px;
+    }
+    .blog-post .comment-area .single-comment .part-quot {
+        margin-left: 0;
+    }
+    .blog-post .comment-area .single-comment button {
+        position: initial;
+    }
+    .blog-post .comment-area .single-comment.relpy {
+        padding-left: 50px;
+    }
+
+    /* details blog comment form */
+    .blog-post .comment-form form {
+        padding: 20px;
+    }
+    .blog-post .comment-form form input {
+        font-size: 14px;
+        height: 50px;
+        margin-bottom: 20px;
+    }
+    .blog-post .comment-form form textarea {
+        font-size: 14px;
+    }
+    .blog-post .comment-form form button {
+        width: 100%;
+        height: 50px;
+        font-size: 14px;
+        margin-top: 23px;
+    }
+
+    /* contact page */
+    .address-area {
+        padding: 80px 0 20px;
+    }
+    .address-area .tsk-contact-info .contact-info-item {
+        margin-bottom: 30px;
+    }
+    .contact {
+        margin-top: 0;
+        padding: 73px 0 80px;
+    }
+    .contact.pt-120px {
+        padding-top: 80px;
+    }
+    .contact .google-map {
+        margin-top: 80px;
+        height: 300px;
+    }
+    .contact .contact-form {
+        padding: 33px 20px 40px;
+    }
+    .contact .contact-form .form-group input.form-control {
+        height: 50px;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .contact .contact-form button.submit-button,
+    .contact .contact-form button {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+    .contact .contact-form .forgetting-password {
+        text-align: left;
+    }
+
+    /* we are */
+    .we-re {
+        padding: 82px 0 80px;
+    }
+    .we-re .part-text {
+        margin-bottom: 40px;
+    }
+
+    /* video */
+    .video {
+        padding: 74px 0 73px;
+    }
+
+    /* footer */
+    .footer {
+        padding-top: 76px;
+    }
+    .footer .copyright {
+        margin-top: 49px;
+    }
+    .footer .box .social_links {
+        margin-bottom: 0;
+    }
+
+}
+@media only screen and (min-width: 500px) and (max-width: 767px) {
+    .blog-post .widget.widget-popular-post .single-post {
+        margin-bottom: 45px;
+    }
+}
+@media only screen and (min-width: 420px) and (max-width: 499px) {
+    /* blog sidebar widget */
+    .blog-post .widget.widget-popular-post .single-post {
+        margin-bottom: 40px;
+    }
+    .blog-post .widget.widget-popular-post .single-post .part-img {
+        float: left;
+    }
+}

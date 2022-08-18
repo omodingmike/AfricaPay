@@ -1,0 +1,10 @@
+{
+  "status": "successful",
+  "amount": 10000,
+  "currency": "UGX",
+  "txRef": "oiBQDtG9QHWjcgys",
+  "message": "Transfer recieved",
+  "account_number": "XXXXX",
+  "charge": "XXXX",
+  "secure_hash": "XXXXX"
+}
